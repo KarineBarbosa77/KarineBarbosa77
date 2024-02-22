@@ -15,5 +15,3 @@
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
 
-You can click the Preview link to take a look at your changes.
---->
