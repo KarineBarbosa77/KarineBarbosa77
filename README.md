@@ -1,8 +1,8 @@
 
 <div align="center">
   <a href="https://github.com/karinebarbosa77">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=karinebarbosa77&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinebarbosa77&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=karinebarbosa77&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinebarbosa77&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 
 <div style="display: inline_block"><br>
